@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fthhbsr.github.io/tour-places-react/static/css/main.34d79405.css",
+    "main.js": "/Fthhbsr.github.io/tour-places-react/static/js/main.c30b726f.js",
+    "static/js/787.c2bbb708.chunk.js": "/Fthhbsr.github.io/tour-places-react/static/js/787.c2bbb708.chunk.js",
+    "index.html": "/Fthhbsr.github.io/tour-places-react/index.html",
+    "main.34d79405.css.map": "/Fthhbsr.github.io/tour-places-react/static/css/main.34d79405.css.map",
+    "main.c30b726f.js.map": "/Fthhbsr.github.io/tour-places-react/static/js/main.c30b726f.js.map",
+    "787.c2bbb708.chunk.js.map": "/Fthhbsr.github.io/tour-places-react/static/js/787.c2bbb708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d79405.css",
+    "static/js/main.c30b726f.js"
+  ]
+}
